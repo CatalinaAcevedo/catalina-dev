@@ -1,0 +1,48 @@
+.box{
+    background-color: rgb(247, 138, 247);
+    margin: 20px;
+    padding: 20px;
+    color: #130101;
+    width: 60%;
+}
+#cap1{
+    background-color: rgb(7, 22, 92);
+    color:#ffffff;
+    margin: 30px;
+    padding-top:30px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+#cap2{
+    background-color: rgb(7, 22, 92);
+    color:#ffffff;
+    margin: 30px;
+    padding-top:30px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+#cap3{
+    background-color: rgb(7, 22, 92);
+    color:#ffffff;
+    margin: 30px;
+    padding-top:30px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+body{
+    
+    padding: 40px;
+    margin: auto;
+}
+#footer{
+    background-color: rgb(57, 57, 58);
+    color:#ffffff;
+    margin: 10px;
+    padding-top:30px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+}
